@@ -1,0 +1,1 @@
+Write the Python Code for a snake game with an AI that play the game optimal:
